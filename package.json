@@ -1,0 +1,22 @@
+{
+  "name": "passport-local-multifield",
+  "version": "0.1.0",
+  "description": "Local multi-field authentication strategy for passport.js",
+  "main": "./lib",
+  "author": {
+    "name": "Mark Tsai"
+  },
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-passport-strategy": "^1.0.1",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "passport-strategy": "^1.0.0"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha --reporter spec --require test/bootstrap/node test/*.test.js"
+  }
+}
