@@ -1,6 +1,6 @@
 {
   "name": "passport-local-multifield",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Local multi-field authentication strategy for passport.js",
   "main": "./lib",
   "author": {
