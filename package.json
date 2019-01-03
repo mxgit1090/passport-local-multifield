@@ -6,6 +6,13 @@
   "author": {
     "name": "Mark Tsai"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mxgit1090/passport-local-multifield.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mxgit1090/passport-local-multifield/issues"
+  },
   "license": "MIT",
   "private": false,
   "devDependencies": {
